@@ -549,5 +549,9 @@
 
     <!-- True if camera app should be pinned via Pinner Service -->
     <bool name="config_pinnerCameraApp">true</bool>
+    
+    <!--to enable doze always on-->
+    <bool name="config_enableDozeAlwaysOn">false</bool>
+
 </resources>
 
