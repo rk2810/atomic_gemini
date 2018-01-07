@@ -553,5 +553,8 @@
     <!--to enable doze always on-->
     <bool name="config_enableDozeAlwaysOn">false</bool>
 
+    <!--bool for backlight options-->
+    <bool name="config_deviceHasButtonBacklight">true</bool>
+    <bool name="config_deviceHasVariableButtonBrightness">true</bool>
 </resources>
 
