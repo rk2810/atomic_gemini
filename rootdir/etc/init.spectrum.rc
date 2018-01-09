@@ -1,6 +1,8 @@
+# Darkness Kernel for Atomic OS
 #
-# Device        : Xiaomi Mi 5 (gemini)
-# Maintainer    : MOVZX (MOVZX@Telegram.org)
+# Device            : Xiaomi Mi 5 (gemini)
+# ROM Maintainer    : rk2810 (rohan.kumquat@gmail.com)
+# Kernel Maintainer : MOVZX (MOVZX@Telegram.org)
 #
 
 # SPECTRUM KERNEL MANAGER
